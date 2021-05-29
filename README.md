@@ -13,7 +13,10 @@
   <img align="left" alt="s Gmail" width="22px" src="https://as1.ftcdn.net/jpg/03/89/54/82/500_F_389548257_bDFZnz42lI6wV6mrW4x1AoWvoJLm1jDT.jpg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=LucasXS.profile-views)
+![](https://visitor-badge.glitch.me/badge?page_id=LucasXS.LucasXS)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LucasXS.profile-views)
 
 <br/>
+
 
