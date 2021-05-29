@@ -14,8 +14,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LucasXS.profile-views)
-![](https://visitor-badge.glitch.me/badge?page_id=LucasXS.LucasXS)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LucasXS.profile-views)
 
 <br/>
 
