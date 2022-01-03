@@ -1,7 +1,7 @@
 # Fala pessoal 👋 Eu sou Lucas.
 
 🔭 Estudante de Ciência da Computação <br/>
-🌱 Estou aprendendo atualmente Python, HTML, CSS e JavaScript. <br/><br/>
+🌱 Python, HTML, CSS e JavaScript. <br/><br/>
 
 <a href="https://discord.gg/sPmus2qH">
   <img align="left" alt="Lucas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
