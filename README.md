@@ -1,4 +1,4 @@
-# Fala pessoal 👋 Eu sou Lucas.
+# Fala pessoal 👋.
 
 🔭 Estudante de Ciência da Computação <br/>
 🌱 Python, HTML, CSS e JavaScript. <br/><br/>
@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/lucas-santos-2639b5163/">
   <img align="left" alt="s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:lucassantossilvaka@gmail.com">
+<a href="mailto:contato_lucassantos@outlook.com">
   <img align="left" alt="s Gmail" width="22px" src="https://as1.ftcdn.net/jpg/03/89/54/82/500_F_389548257_bDFZnz42lI6wV6mrW4x1AoWvoJLm1jDT.jpg" />
 </a>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-📈 My GitHub Stats
+📈 GitHub Stats - TO THE STARS
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LucasXS&show_icons=true&theme=default" alt="LucasXS" />
 
